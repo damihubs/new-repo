@@ -22,4 +22,3 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_SSH_KEY }}
           publish_dir: .
           publish_branch: gh-pages
-
